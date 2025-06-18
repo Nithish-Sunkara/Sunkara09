@@ -5,6 +5,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
 </p>
 
+- 👩‍🎓 I'm currently pursuing Master's in Information Science From **Indiana Institute of Technology.**
 - 🎓 I’m currently working as a **Full Stack Developer**  
 - 🌱 I’m currently learning **Microservices, Docker, and Kubernetes**  
 - 💬 Ask me about **Java, Spring Boot, React, REST APIs, Databases**
@@ -13,7 +14,7 @@
 
 ---
 
-### 🛠️ Technologies & Tools I Use:
+### 🛠️ Technologies & Tools I know 👩‍💻:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
