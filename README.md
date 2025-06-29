@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Microservices, Docker, and Kubernetes**  
 - 💬 Ask me about **Java, Spring Boot, React, REST APIs, Databases**
 - 📫 Reach me at: **nsunkara01@indianatech.net**  
-- 
+
 
 ---
 
