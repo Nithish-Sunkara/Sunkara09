@@ -7,7 +7,7 @@
 
 - 👩‍🎓 I'm currently pursuing Master's in Information Science From **Indiana Institute of Technology.**
 - 🎓 I’m currently working as a **Full Stack Developer**  
-- 🌱 I’m currently learning **Microservices, Docker, and Kubernetes**  
+- 🌱 I’m currently learning **Microservices & Docker**  
 - 💬 Ask me about **Java, Spring Boot, React, REST APIs, Databases**
 - 📫 Reach me at: **nsunkara01@indianatech.net**  
 
