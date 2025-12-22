@@ -5,33 +5,16 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
 </p>
 
-- 👩‍🎓 I'm currently pursuing Master's in Information Science From **Indiana Institute of Technology.**
-- 🎓 I’m currently working as a **Full Stack Developer**  
-- 🌱 I’m currently learning **Microservices & Docker**  
-- 💬 Ask me about **Java, Spring Boot, React, REST APIs, Databases**
+- 👩‍🎓 I Master's in Information Science From **Indiana Institute of Technology.**
+- 🎓 I’m currently working as a **Data Analyst**  
+- 🌱 I’m currently learning **Python, pandas and Numpy**  
+- 💬 Ask me about **SQL, Excel, Tableau, Python**
 - 📫 Reach me at: **nsunkara01@indianatech.net**  
 
 
 ---
 
-### 🛠️ Technologies & Tools I know 👩‍💻:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
-</p>
-
----
+### 🛠️ Technologies & Tools I know 👩‍💻: 
 
 ### 📊 GitHub Stats
 
@@ -45,7 +28,8 @@
 
 ### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sunkara9/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nsunkara01/)
+
 
 ---
 
