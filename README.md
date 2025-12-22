@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nithish Sunkara</h1>
-<h3 align="center">Full Stack Java Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Data Analyst | SQL, Excel, Tableau, Python | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
