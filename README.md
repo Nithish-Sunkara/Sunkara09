@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hello, I’m Nithish Sunkara.</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
-</p>
+
 •	💡 I’m a Data Analyst passionate about data-driven innovation.</br>
 •	📊 As a Data Analyst, I turn raw data into insights that power smart business decisions.</br>
 • 📈 I design dashboards, AI models, and workflows that help teams save time, money, and resources.
