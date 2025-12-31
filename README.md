@@ -3,7 +3,8 @@
 
 •	💡 I’m a Data Analyst passionate about data-driven innovation.</br>
 •	📊 As a Data Analyst, I turn raw data into insights that power smart business decisions.</br>
-• 📈 I design dashboards, AI models, and workflows that help teams save time, money, and resources.
+• 📈 I design dashboards, AI models, and workflows that help teams save time, money, and resources.</br>
+
 • 👩‍🎓 I Hold a Master's in Information Science From **Indiana Institute of Technology.**</br>
 • 🎓 I’m currently working as a **Data Analyst**  </br>
 • 🌱 I’m currently learning **Python, pandas and Numpy**  </br>
